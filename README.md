@@ -1,6 +1,6 @@
 # Hi there, I'm Henry! 👋
 
-I am a Hardware & eCAD Design Engineer passionate about developing robust electronics, PCB layouts, and embedded systems. Welcome to my digital workspace!
+I am a  junior Hardware & eCAD Design Engineer passionate about developing robust electronics, PCB layouts, and embedded systems. Welcome to my digital workspace!
 
 ---
 
