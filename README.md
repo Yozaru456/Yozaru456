@@ -12,7 +12,8 @@ I am a Hardware & eCAD Design Engineer passionate about developing robust electr
 ### 🚀 Current Projects & Focus
 * 📋 Standardizing eCAD workflows and repository structures for reliable manufacturing.
 * 🤖 Working on Doublepulse Test for SiC Mosfets.
-* 📖 Learning more about more efficient workflows.
+* 📖 Learning more about Analog IC Design.
+* 🔧 Designing custom breakout boards for standard SMD components to streamline breadboard prototyping
 
 ---
 
