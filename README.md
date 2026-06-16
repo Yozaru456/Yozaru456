@@ -37,8 +37,8 @@ I am a Hardware & eCAD Design Engineer passionate about developing robust electr
 ---
 
 ### 📫 Connect with me
-* 💼 LinkedIn: [Dein LinkedIn-Link]
-* 🌐 Website/Portfolio: [Deine Website, falls vorhanden]
-* 📧 Email: [Deine E-Mail-Adresse]
+* 💼 LinkedIn:
+* 🌐 Website/Portfolio:
+* 📧 Email:
 
 *"Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke*
